@@ -12,7 +12,7 @@ const Com=(props)=>{
                 <div className="row d-flex m-auto justify-content-center">
                     <div className="col-6 order-1 order-lg-1 justify-content-center d-flex flex-column">
                         <h1>{props.name}
-                         <strong className="text-success"> Ahsan</strong>
+                         <strong className="text-success"> ADS</strong>
                         </h1>
                         <h2>{props.title}</h2>
                         <div>

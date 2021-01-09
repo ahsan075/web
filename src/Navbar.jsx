@@ -8,11 +8,11 @@ const Navbar = () => {
     <>
       <div className="container-fluid">
         <div className="row">
-          <div className="col-10 mx-auto">
+          <div className="col-12 mx-auto">
 
             <nav className="navbar navbar-expand-sm navbar-light bg-light">
               <div className="container-fluid">
-                <NavLink className="navbar-brand" to="/">Navbar</NavLink>
+                <NavLink className="navbar-brand logo" to="/">ADS</NavLink>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                   <span className="navbar-toggler-icon"></span>
                 </button>

@@ -1,14 +1,14 @@
 import React from "react";
 import Com from "./Com";
-import web from "../src/image/1.jpg"
+import web from "../src/image/3.jfif"
 
 const About=()=>{
 
     return(
         <>
         <Com 
-            name="You Can Gather More and Contact"
-            title="How do you feel right now?Tell me your experince about Web Design"
+            name="Stay with"
+            title="For more contact with us"
             link="/contact"
             btnName="Contact"
             imgsrc={web}

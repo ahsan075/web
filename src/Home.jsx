@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import web from "../src/image/5.jpg"
+import web from "../src/image/9.jpg"
 import Com from "./Com"
 
 const Home=()=>{
@@ -10,7 +10,7 @@ const Home=()=>{
 
         <Com 
             name="Get Started With"
-            title="How do you feel right now?Tell me your experince about Web Design"
+            title="Lorem ipsum dolor sit amet consectetur, adipisicing elit."
             link="/service"
             btnName="Get Start"
             imgsrc={web}

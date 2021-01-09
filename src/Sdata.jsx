@@ -1,6 +1,9 @@
-import web from "../src/image/2.jpg"
-import Gra from "../src/image/3.jpg"
-import soft from "../src/image/5.jpg"
+import web from "../src/image/2.png"
+import Gra from "../src/image/4.jpg"
+import soft from "../src/image/6.jpg"
+import and from "../src/image/7.jpg"
+import ux from "../src/image/3.png"
+import phy from "../src/image/8.jpg"
 
 
 const Sdata=[
@@ -14,19 +17,19 @@ const Sdata=[
     },
     {
         imgsrc:soft,
-        title:"Software"
+        title:"Software Developing"
     },
     {
-        imgsrc:web,
-        title:"Web Developing"
+        imgsrc:and,
+        title:"Android"
     },
     {
-        imgsrc:Gra,
-        title:"Graphics Design"
+        imgsrc:ux,
+        title:"UI Design"
     },
     {
-        imgsrc:soft,
-        title:"Software"
+        imgsrc:phy,
+        title:"Phython"
     }
 ];
 export default Sdata;
